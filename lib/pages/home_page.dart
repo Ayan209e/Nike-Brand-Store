@@ -83,24 +83,30 @@ class _HomePageState extends State<HomePage> {
                     Icons.home,
                     color: Colors.white,
                   ),
-                  onTap: () {},
+                  onTap: () {
+                    navigateBottomNavBar(0);
+                    Navigator.of(context).pop();
+                  },
                 ),
               ),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 16),
                 child: ListTile(
                   title: Text(
-                    'About',
+                    'Cart',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 16,
                     ),
                   ),
                   leading: Icon(
-                    Icons.info,
+                    Icons.shopping_bag_rounded,
                     color: Colors.white,
                   ),
-                  onTap: () {},
+                  onTap: () {
+                    navigateBottomNavBar(1);
+                    Navigator.of(context).pop();
+                  },
                 ),
               ),
             ],

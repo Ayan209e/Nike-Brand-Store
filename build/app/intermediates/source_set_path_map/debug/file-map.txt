@@ -18,10 +18,10 @@ com.example.nike_brand_store.app-lifecycle-runtime-2.7.0-16 /Users/ayankumar/.gr
 com.example.nike_brand_store.app-jetified-core-1.0.0-17 /Users/ayankumar/.gradle/caches/transforms-3/c31a4bb5a15a2ee7a96dbe06c89e85f5/transformed/jetified-core-1.0.0/res
 com.example.nike_brand_store.app-jetified-lifecycle-process-2.7.0-18 /Users/ayankumar/.gradle/caches/transforms-3/dbde9cdc77876e4df7bbc93ff1556b43/transformed/jetified-lifecycle-process-2.7.0/res
 com.example.nike_brand_store.app-jetified-startup-runtime-1.1.1-19 /Users/ayankumar/.gradle/caches/transforms-3/fabdcf8916c57220c7a394d04ce23100/transformed/jetified-startup-runtime-1.1.1/res
-com.example.nike_brand_store.app-debug-20 /Users/ayankumar/Desktop/Projects/Flutter/nike_brand_store/android/app/src/debug/res
-com.example.nike_brand_store.app-main-21 /Users/ayankumar/Desktop/Projects/Flutter/nike_brand_store/android/app/src/main/res
-com.example.nike_brand_store.app-pngs-22 /Users/ayankumar/Desktop/Projects/Flutter/nike_brand_store/build/app/generated/res/pngs/debug
-com.example.nike_brand_store.app-resValues-23 /Users/ayankumar/Desktop/Projects/Flutter/nike_brand_store/build/app/generated/res/resValues/debug
-com.example.nike_brand_store.app-packageDebugResources-24 /Users/ayankumar/Desktop/Projects/Flutter/nike_brand_store/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.nike_brand_store.app-packageDebugResources-25 /Users/ayankumar/Desktop/Projects/Flutter/nike_brand_store/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.nike_brand_store.app-merged_res-26 /Users/ayankumar/Desktop/Projects/Flutter/nike_brand_store/build/app/intermediates/merged_res/debug
+com.example.nike_brand_store.app-debug-20 /Users/ayankumar/Documents/GitHub/Nike-Brand-Store/android/app/src/debug/res
+com.example.nike_brand_store.app-main-21 /Users/ayankumar/Documents/GitHub/Nike-Brand-Store/android/app/src/main/res
+com.example.nike_brand_store.app-pngs-22 /Users/ayankumar/Documents/GitHub/Nike-Brand-Store/build/app/generated/res/pngs/debug
+com.example.nike_brand_store.app-resValues-23 /Users/ayankumar/Documents/GitHub/Nike-Brand-Store/build/app/generated/res/resValues/debug
+com.example.nike_brand_store.app-packageDebugResources-24 /Users/ayankumar/Documents/GitHub/Nike-Brand-Store/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.nike_brand_store.app-packageDebugResources-25 /Users/ayankumar/Documents/GitHub/Nike-Brand-Store/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.nike_brand_store.app-merged_res-26 /Users/ayankumar/Documents/GitHub/Nike-Brand-Store/build/app/intermediates/merged_res/debug

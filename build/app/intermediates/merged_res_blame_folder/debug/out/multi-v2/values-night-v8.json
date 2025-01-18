@@ -4,7 +4,7 @@
             "outputFile": "com.example.nike_brand_store.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/ayankumar/Desktop/Projects/Flutter/nike_brand_store/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/ayankumar/Documents/GitHub/Nike-Brand-Store/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
