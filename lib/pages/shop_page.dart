@@ -32,7 +32,7 @@ class _ShopPageState extends State<ShopPage> {
             style: DefaultTextStyle.of(context).style,
             children: <TextSpan>[
               TextSpan(
-                text: '${shoe.name}',
+                text: shoe.name,
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
               ),
               TextSpan(text: ' has been added to your cart.'),
